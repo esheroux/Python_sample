@@ -1,0 +1,21 @@
+Worst Case Big O Notation
+
+Task0.py
+Regardless of the size of the data file we always pull only one value in so big O is O(1)
+The answer is O(1)
+
+Task1.py
+Big O for the first for loop is n and for the second is n so we have O(2n) when the data set gets really big, O(2n) simplifies to O(n).
+The answer is O(n)
+
+Task2.py
+Big O for the for loop is n. The if statements would add a multiplier to n, eg 2n, but as n gets large, 2n simplifies to n. 
+The answer is O(n)
+
+Task3.py
+Big O for the for loop is n. The if statements would add a multiplier to n, eg 2n, but as n gets large, 2n simplifies to n. 
+The answer is O(n)
+
+Task4.py
+Big O for the for loop is n. The if statements would add a multiplier to n, eg 2n, but as n gets large, 2n simplifies to n. 
+The answer is O(n)
